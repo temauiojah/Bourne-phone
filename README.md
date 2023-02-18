@@ -1,8 +1,9 @@
 # Maui-OS
 
-A Linux From Scratch operating system to 
-be used on an Arm architecture type 
-smart phone.The Bourne phone
+A Linux From Scratch style built operating 
+system to be used on an Arm architecture 
+type smart phone and a desktop version. 
+"The Bourne phone"
 
 A variety of included programs.
 

@@ -8,11 +8,10 @@ type smart phone and a desktop version.
 A variety of included programs.
 
 Smart phone services and Social media 
-access to be provided by an Nginx proxy 
-or other web server setup thru html and 
-the web browser. Local profile and port 
-forwarding capabilities to allow uses to 
-connect to networks and others.
+access to be provided by a local
+Nginx proxy or other web server setup thru html and 
+the web browser. Port forwarding to allow 
+uses to connect to networks and others.
 
 Buildah to allow for Open Container 
 Initiative (OCI) container images similar

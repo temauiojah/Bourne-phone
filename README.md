@@ -22,7 +22,7 @@ Wireguard, NFTables, nmap, zenmap,
 crypto wallets, IPFS option etc etc
 
 Could even call it the Infowars phone and 
-rename the OS ALEX 
+rename the OS ALEX ...lol
 
 
 https://www.linuxfromscratch.org

@@ -13,9 +13,10 @@ Nginx proxy or other web server setup thru html and
 the web browser. Port forwarding to allow 
 uses to connect to networks and others.
 
-Buildah to allow for Open Container 
-Initiative (OCI) container images similar
-to app store and run thru namespaces.
+Buildah to allow for non privileged 
+Open Container Initiative (OCI) container 
+images. Similar to Googles app store and 
+run thru isolated namespaces.
 
 Wireguard, NFTables, nmap, zenmap,
 crypto wallets, IPFS option etc etc

@@ -25,4 +25,4 @@ Could even call it the Infowars phone and
 rename the OS ALEX 
 
 
-
+https://www.linuxfromscratch.org

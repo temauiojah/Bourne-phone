@@ -39,21 +39,6 @@ Beyond Linux from Scratch
 
 https://www.linuxfromscratch.org/blfs/
 
-Linux From Scratch | Your Distro, Your Rules
-
-  Web  LFS
-
-PatchesHintsALFSBLFSLFS
-Home
-BLFS Home
-News
-Download
-Read Online
-Support
-Mailing Lists
-Wiki
-Contribute
-Getting Involved
-Website Mirrors
 What is Beyond Linux From Scratch?
 Beyond Linux From Scratch (BLFS) is a project that continues where the LFS book finishes. It assists users in developing their systems according to their needs by providing a broad range of instructions for installing and configuring various packages on top of a base LFS system.
+

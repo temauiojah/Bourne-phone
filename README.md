@@ -26,3 +26,9 @@ rename the OS ALEX ...lol
 
 
 https://www.linuxfromscratch.org
+
+Using the Raspberry Pi 
+
+https://intestinate.com/pilfs/
+
+https://gitlab.com/gusco/pilfs-images/raw/master/pilfs-base-rpi4-r11.2-110.img.xz

@@ -31,4 +31,6 @@ Using the Raspberry Pi
 
 https://intestinate.com/pilfs/
 
+https://intestinate.com/pilfs/images.html
+
 https://gitlab.com/gusco/pilfs-images/raw/master/pilfs-base-rpi4-r11.2-110.img.xz
